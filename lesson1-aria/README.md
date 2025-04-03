@@ -11,10 +11,10 @@ This SAPUI5 application demonstrates how to create accessible user interfaces by
 
 ## Accessibility Details
 
-- The `Image` control uses the `aria-labelledby` property to associate it with a `Text` element that provides a detailed description.
+- The `Image` control uses the `aria-labelledby` property to associate it with an `Id` element that provides a detailed description.
 - The `alt` attribute ensures that screen readers can describe the image content.
 
 ## Testing Accessibility
 
-- Use tools like ChromeVox or NVDA to verify that the image description is read aloud by the screen reader.
+- Use tools like NVDA to verify that the image description is read aloud by the screen reader.
 - Ensure that the `alt` text and ARIA attributes are correctly interpreted.
