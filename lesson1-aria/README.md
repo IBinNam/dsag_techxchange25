@@ -19,7 +19,7 @@ Below is an example of an accessible SAPUI5 view:
   <Page id="accMainPage" title="Accessibility Example">
     <content>
       <!-- Accessible Image -->
-      <Image id="accImage" src="./image/p78_QuickApply_Header.png" alt="Quick Apply Header" ariaDetails="accImageDescription" decorative="false"/>
+      <Image id="accImage" width="100%" src="https://p78quickapplytenant.blob.core.windows.net/assets/quickapply/p78/p78quickapplytheme/p78_QuickApply_Header_(Desktop).png" alt="Quick Apply Header" ariaDetails="accImageDescription" decorative="false"/>
       <core:InvisibleText id="accImageDescription" text="Header image for Quick Apply section" />
 
       <!-- Accessible Button -->

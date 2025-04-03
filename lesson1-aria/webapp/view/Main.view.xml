@@ -5,8 +5,9 @@
         <content>
             <!-- Image with ARIA attributes for accessibility -->
             <Image
+                width="100%"
                 id="accImage"
-                src="./image/p78_QuickApply_Header.png"/>
+                src="https://p78quickapplytenant.blob.core.windows.net/assets/quickapply/p78/p78quickapplytheme/p78_QuickApply_Header_(Desktop).png"/>
             <Button id="accButton" icon="sap-icon://edit" press="onPress"/>
         </content>
     </Page>
