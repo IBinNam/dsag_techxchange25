@@ -2,7 +2,7 @@
 
 specVersion: "3.1"
 metadata:
-  name: lesson3
+  name: lesson4
 type: application
 server:
   customMiddleware:
@@ -24,5 +24,5 @@ server:
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
-        component: lesson3
+        component: lesson4
         ui5Theme: sap_horizon

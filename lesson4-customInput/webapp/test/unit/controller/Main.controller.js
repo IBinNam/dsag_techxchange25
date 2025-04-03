@@ -1,7 +1,7 @@
 /*global QUnit*/
 
 sap.ui.define([
-	"lesson3/controller/Main.controller"
+	"lesson4/controller/Main.controller"
 ], function (Controller) {
 	"use strict";
 

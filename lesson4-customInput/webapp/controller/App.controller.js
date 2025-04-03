@@ -3,7 +3,7 @@ sap.ui.define([
 ], (BaseController) => {
   "use strict";
 
-  return BaseController.extend("lesson3.controller.App", {
+  return BaseController.extend("lesson4.controller.App", {
       onInit() {
       }
   });

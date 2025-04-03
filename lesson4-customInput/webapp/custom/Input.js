@@ -3,7 +3,7 @@ sap.ui.define([
 ], function (Control, Utils) {
     "use strict";
 
-    return Control.extend("lesson3.custom.Input", {
+    return Control.extend("lesson4.custom.Input", {
 
         _fireUpdateFinished: function () {
             if (Control.prototype._fireUpdateFinished) {

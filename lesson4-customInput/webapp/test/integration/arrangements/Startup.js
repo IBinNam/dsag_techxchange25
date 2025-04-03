@@ -14,7 +14,7 @@ sap.ui.define([
 			// start the app UI component
 			this.iStartMyUIComponent({
 				componentConfig: {
-					name: "lesson3",
+					name: "lesson4",
 					async: true
 				},
 				hash: oOptions.hash,

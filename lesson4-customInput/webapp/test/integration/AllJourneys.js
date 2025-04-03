@@ -7,7 +7,7 @@ sap.ui.define([
 
 	Opa5.extendConfig({
 		arrangements: new Startup(),
-		viewNamespace: "lesson3.view.",
+		viewNamespace: "lesson4.view.",
 		autoWait: true
 	});
 });

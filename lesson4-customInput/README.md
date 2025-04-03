@@ -14,7 +14,7 @@ sap.ui.define([
 ], function (Control) {
     "use strict";
 
-    return Control.extend("lesson3.custom.Input", {
+    return Control.extend("lesson4.custom.Input", {
 
         _fireUpdateFinished: function () {
             if (Control.prototype._fireUpdateFinished) {
@@ -53,10 +53,10 @@ sap.ui.define([
 Below is an example of how to use the custom control in an XML view. The `showSuggestion` property is set to `true`, enabling the `autocomplete` attribute.
 
 ```xml
-<mvc:View controllerName="lesson3.controller.Main"
+<mvc:View controllerName="lesson4.controller.Main"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m"
-    xmlns:cc="lesson3.custom">
+    xmlns:cc="lesson4.custom">
    <Page id="accMainPageResult" title="Accessibility Example">
         <content>
             <VBox>

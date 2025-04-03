@@ -1,4 +1,4 @@
-<mvc:View controllerName="lesson3.controller.App"
+<mvc:View controllerName="lesson4.controller.App"
     displayBlock="true"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">

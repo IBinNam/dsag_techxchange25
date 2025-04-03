@@ -1,7 +1,7 @@
-<mvc:View controllerName="lesson3.controller.Main"
+<mvc:View controllerName="lesson4.controller.Main"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m"
-    xmlns:cc="lesson3.custom">
+    xmlns:cc="lesson4.custom">
    <Page id="accMainPage" title="Accessibility Example">
         <content>
       <VBox>
