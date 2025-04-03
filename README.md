@@ -25,14 +25,32 @@ To clone a Git repository in SAP Business Application Studio, follow these steps
 
 Below is an example of the GUI steps:
 
-![Clone from Git in SAP Business Application Studio](./images/clone-from-git.png)
+![Clone from Git in SAP Business Application Studio](images/clone-from-git.png)
 
 
 **Drag and Drop**: Drag the lesson folder from the file explorer on your computer and drop it into the workspace area of SAP Business Application Studio.
 
 Below is an example of the GUI steps:
 
-![Open Folder in SAP Business Application Studio](./images/openfolder.png)
+![Open Folder in SAP Business Application Studio](images/openfolder.png)
+
+## Install Dependencies for Each Lesson
+
+To install the required dependencies for each lesson, follow these steps:
+
+1. Open the terminal in SAP Business Application Studio:
+   - Click the **burger menu** (three horizontal lines) in the top-left corner.
+   - Select **Terminal** > **New Terminal**.
+2. Navigate to the folder of the lesson you want to work on using the `cd` command.
+3. Run the following command to install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Wait for the installation to complete. Once done, you can start working on the lesson.
+
+Below is an example of the GUI steps:
+
+![Install Dependencies with npm](images/npmi.png)
 
 ## Lessons Overview
 
