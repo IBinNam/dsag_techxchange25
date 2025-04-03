@@ -25,14 +25,14 @@ To clone a Git repository in SAP Business Application Studio, follow these steps
 
 Below is an example of the GUI steps:
 
-![Clone from Git in SAP Business Application Studio](images/clone-from-git.png)
+![Clone from Git in SAP Business Application Studio](images/gitclone.png)
 
 
 **Drag and Drop**: Drag the lesson folder from the file explorer on your computer and drop it into the workspace area of SAP Business Application Studio.
 
 Below is an example of the GUI steps:
 
-![Open Folder in SAP Business Application Studio](images/openfolder.png)
+![Open Folder in SAP Business Application Studio](images/openFolder.png)
 
 ## Install Dependencies for Each Lesson
 
