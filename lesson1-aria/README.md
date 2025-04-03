@@ -30,6 +30,10 @@ Below is an example of an accessible SAPUI5 view:
 </mvc:View>
 ````
 
+### Download Resources
+
+- [Download Quick Apply Header Image](./image/p78_QuickApply_Header.png)
+
 ### Explanation of Accessibility Features
 
 1. **Accessible Image**:
