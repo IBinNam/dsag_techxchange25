@@ -14,6 +14,26 @@ The goal of these lessons is to help developers understand and implement accessi
 - Set Up SAP Business Application Studio for Development  
   Follow this tutorial to set up your development environment: [Set Up SAP Business Application Studio](https://developers.sap.com/tutorials/appstudio-onboarding.html)
 
+## How to Clone a Git Repository in SAP Business Application Studio
+
+To clone a Git repository in SAP Business Application Studio, follow these steps:
+
+1. Open SAP Business Application Studio.
+2. On the "Get Started" page, click the **Clone from Git** button.
+3. A pop-up dialog will appear. Enter the URL of the Git repository you want to clone and click **Enter**.
+4. The repository will be cloned into your workspace.
+
+Below is an example of the GUI steps:
+
+![Clone from Git in SAP Business Application Studio](./images/clone-from-git.png)
+
+
+**Drag and Drop**: Drag the lesson folder from the file explorer on your computer and drop it into the workspace area of SAP Business Application Studio.
+
+Below is an example of the GUI steps:
+
+![Open Folder in SAP Business Application Studio](./images/openfolder.png)
+
 ## Lessons Overview
 
 - **[lesson1-aria](./lesson1-aria)**: Learn how to use ARIA roles, states, and properties to enhance accessibility for dynamic content.
