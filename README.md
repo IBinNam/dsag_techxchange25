@@ -6,9 +6,17 @@ This repository contains hands-on lessons designed to teach and demonstrate best
 
 The goal of these lessons is to help developers understand and implement accessibility features in their applications, ensuring inclusivity for all users, including those with disabilities.
 
+## Prerequisites
+
+- SAP BTP Trial account  
+  Get a free account by following this tutorial: [Create a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+
+- Set Up SAP Business Application Studio for Development  
+  Follow this tutorial to set up your development environment: [Set Up SAP Business Application Studio](https://developers.sap.com/tutorials/appstudio-onboarding.html)
+
 ## Lessons Overview
 
-- **lesson1-introduction**: Introduction to accessibility, its importance, and key principles.
-- **lesson2-screen-readers**: Hands-on experience with screen readers and how to make applications compatible with them.
-- **lesson3-level**: Demonstrating the use of semantic HTML elements like `<Title>` for better accessibility.
-- **lesson4-custominput**: Creating a custom input control with `autocomplete="on"` to improve accessibility for users with cognitive disabilities.
+- **lesson1-introduction**: Learn how to make images accessible by using appropriate `alt` attributes and decorative images.
+- **lesson2-screen-readers**: Understand the importance of the `labelFor` property in SAPUI5 controls and how it improves form accessibility.
+- **lesson3-level**: Understand the importance of semantic HTML and how to use `<Title>` and other elements to improve navigation and accessibility.
+- **lesson4-custominput**: Build a custom input control with enhanced accessibility features, such as `autocomplete="on"` and proper labeling for cognitive and motor-impaired users.
