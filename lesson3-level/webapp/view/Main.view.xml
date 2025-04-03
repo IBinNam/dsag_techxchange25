@@ -1,0 +1,14 @@
+<mvc:View controllerName="lesson3.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+   <Page id="accMainPage" title="Accessibility Example">
+        <content>
+      <VBox>
+        <Text text="Heading 1"/>
+        <Text text="This is some content under Heading 1." />
+        <Text text="Heading 2"/>
+        <Text text="This is some content under Heading 2." />
+      </VBox>
+    </content>
+    </Page>
+</mvc:View>

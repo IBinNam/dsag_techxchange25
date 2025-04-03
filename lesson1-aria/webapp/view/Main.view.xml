@@ -1,0 +1,13 @@
+<mvc:View controllerName="lesson1.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+   <Page id="accMainPage" title="Accessibility Example">
+        <content>
+            <!-- Image with ARIA attributes for accessibility -->
+            <Image
+                id="accImage"
+                src="./image/p78_QuickApply_Header.png"/>
+            <Button id="accButton" icon="sap-icon://edit" press="onPress"/>
+        </content>
+    </Page>
+</mvc:View>

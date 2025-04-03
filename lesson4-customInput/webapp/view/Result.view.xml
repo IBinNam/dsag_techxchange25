@@ -1,0 +1,13 @@
+<mvc:View controllerName="lesson3.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:cc="lesson3.custom">
+   <Page id="accMainPageResult" title="Accessibility Example">
+        <content>
+      <VBox>
+        <Label id="accLabelResult" text="Name" labelFor="accInputResult"/>
+        <cc:Input id="accInputResult" showSuggestion="true" placeholder="Enter your name"/>
+      </VBox>
+    </content>
+    </Page>
+</mvc:View>

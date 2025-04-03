@@ -1,0 +1,19 @@
+<mvc:View controllerName="lesson2.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+   <Page id="accMainPageResult" title="Accessibility Example">
+        <content>
+            <!-- Image with ARIA attributes for accessibility -->
+            <Label id="accLabelResult" text="Name" labelFor="accInputResult" />
+            <Input id="accInputResult" placeholder="Enter your name" />
+
+            <VBox class="sapUiSmallMarginTop">
+                <Label id="accLabelRadioButtonGroupResult" text="An example of a group in warning state" labelFor="rbg4Result" />
+                <RadioButtonGroup id="rbg4Result" valueState="Warning">
+                <RadioButton id="RB4-1Result" text="Option 1" />
+			    <RadioButton id="RB4-2Result" text="Option 2" />           
+		        </RadioButtonGroup>
+             </VBox>
+        </content>
+    </Page>
+</mvc:View>
