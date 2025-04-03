@@ -32,7 +32,7 @@ Below is an example of an accessible SAPUI5 view:
 
 ### Download Resources
 
-- [Download Quick Apply Header Image](./image/p78_QuickApply_Header.png)
+- [Download Quick Apply Header Image](https://p78quickapplytenant.blob.core.windows.net/assets/quickapply/p78/p78quickapplytheme/p78_QuickApply_Header_(Desktop).png)
 
 ### Explanation of Accessibility Features
 
