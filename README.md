@@ -41,12 +41,11 @@ To install the required dependencies for each lesson, follow these steps:
 1. Open the terminal in SAP Business Application Studio:
    - Click the **burger menu** (three horizontal lines) in the top-left corner.
    - Select **Terminal** > **New Terminal**.
-2. Navigate to the folder of the lesson you want to work on using the `cd` command.
-3. Run the following command to install the dependencies:
+2. Run the following command to install the dependencies:
    ```bash
    npm install
    ```
-4. Wait for the installation to complete. Once done, you can start working on the lesson.
+3. Wait for the installation to complete. Once done, you can start working on the lesson.
 
 Below is an example of the GUI steps:
 
